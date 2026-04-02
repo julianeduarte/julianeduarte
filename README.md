@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ciberseguran%C3%A7a+%26+Governan%C3%A7a+de+Dados;Graduada+em+Direito+%7C+P%C3%B3s+em+Seg.+da+Informa%C3%A7%C3%A3o;Explorando+Python+%26+Intelig%C3%AAncia+Artificial;Curiosidade+%C3%A9+o+meu+motor+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Ciberseguran%C3%A7a+%26+Governan%C3%A7a+de+Dados;Graduada+em+Direito+%7C+P%C3%B3s+em+Seg.+da+Informa%C3%A7%C3%A3o;Explorando+Python+%26+Intelig%C3%AAncia+Artificial)](https://git.io/typing-svg)
 
 </div>
 
@@ -83,9 +83,8 @@ Tenho uma trajetória que une o **rigor analítico do Direito** com a **mentalid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianed@outlook.com)
 
 </div>
 
