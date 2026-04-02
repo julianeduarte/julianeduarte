@@ -5,64 +5,7 @@
 <p align="center">
   <img src="./header.svg" alt="Juliane - Segurança da Informação, Cibersegurança e GRC">
 </p>
-
-  <!-- JULIANE text -->
-  <text x="340" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#c4b5fd" letter-spacing="8">JULIANE</text>
-
-  <!-- Blinking cursor -->
-  <rect x="542" y="44" width="4" height="28" fill="#a855f7" class="blink-anim px"/>
-
-  <!-- Subtitle -->
-  <text x="340" y="100" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7c3aed" letter-spacing="2">&#9658; SEGURANCA DA INFORMACAO  |  CIBERSEGURANCA  |  GRC &#9664;</text>
-
-  <!-- Bottom pixel bar -->
-  <rect x="40" y="120" width="8" height="8" fill="#3b0764" class="px"/>
-  <rect x="52" y="120" width="8" height="8" fill="#4c1d95" class="px"/>
-  <rect x="64" y="120" width="8" height="8" fill="#5b21b6" class="px"/>
-  <rect x="76" y="120" width="8" height="8" fill="#6d28d9" class="px"/>
-  <rect x="88" y="120" width="8" height="8" fill="#7c3aed" class="px"/>
-  <rect x="100" y="120" width="8" height="8" fill="#8b5cf6" class="px"/>
-  <rect x="112" y="120" width="8" height="8" fill="#a855f7" class="px"/>
-  <rect x="124" y="120" width="8" height="8" fill="#c084fc" class="px"/>
-  <rect x="136" y="120" width="8" height="8" fill="#d8b4fe" class="px"/>
-  <rect x="148" y="120" width="8" height="8" fill="#ede9fe" class="px glow"/>
-  <rect x="160" y="120" width="8" height="8" fill="#d8b4fe" class="px"/>
-  <rect x="172" y="120" width="8" height="8" fill="#c084fc" class="px"/>
-  <rect x="184" y="120" width="8" height="8" fill="#a855f7" class="px"/>
-  <rect x="196" y="120" width="8" height="8" fill="#8b5cf6" class="px"/>
-  <rect x="208" y="120" width="8" height="8" fill="#7c3aed" class="px"/>
-  <rect x="220" y="120" width="8" height="8" fill="#6d28d9" class="px"/>
-  <rect x="232" y="120" width="8" height="8" fill="#5b21b6" class="px"/>
-  <rect x="244" y="120" width="8" height="8" fill="#4c1d95" class="px"/>
-  <rect x="256" y="120" width="8" height="8" fill="#3b0764" class="px"/>
-  <rect x="412" y="120" width="8" height="8" fill="#3b0764" class="px"/>
-  <rect x="424" y="120" width="8" height="8" fill="#4c1d95" class="px"/>
-  <rect x="436" y="120" width="8" height="8" fill="#5b21b6" class="px"/>
-  <rect x="448" y="120" width="8" height="8" fill="#6d28d9" class="px"/>
-  <rect x="460" y="120" width="8" height="8" fill="#7c3aed" class="px"/>
-  <rect x="472" y="120" width="8" height="8" fill="#8b5cf6" class="px"/>
-  <rect x="484" y="120" width="8" height="8" fill="#a855f7" class="px"/>
-  <rect x="496" y="120" width="8" height="8" fill="#c084fc" class="px"/>
-  <rect x="508" y="120" width="8" height="8" fill="#d8b4fe" class="px"/>
-  <rect x="520" y="120" width="8" height="8" fill="#ede9fe" class="px glow" style="animation-delay:0.3s"/>
-  <rect x="532" y="120" width="8" height="8" fill="#d8b4fe" class="px"/>
-  <rect x="544" y="120" width="8" height="8" fill="#c084fc" class="px"/>
-  <rect x="556" y="120" width="8" height="8" fill="#a855f7" class="px"/>
-  <rect x="568" y="120" width="8" height="8" fill="#8b5cf6" class="px"/>
-  <rect x="580" y="120" width="8" height="8" fill="#7c3aed" class="px"/>
-  <rect x="592" y="120" width="8" height="8" fill="#6d28d9" class="px"/>
-  <rect x="604" y="120" width="8" height="8" fill="#5b21b6" class="px"/>
-  <rect x="616" y="120" width="8" height="8" fill="#4c1d95" class="px"/>
-  <rect x="628" y="120" width="8" height="8" fill="#3b0764" class="px"/>
-
-  <!-- Footer tag -->
-  <text x="340" y="145" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#5b21b6" letter-spacing="3">[ PUC MINAS  •  CYBERSECURITY  •  DATA GOVERNANCE ]</text>
-</svg>
-
-</div>
-
-<br/>
-
+  
 ## `> whoami`
 
 Oie! Sou a **Juliane** — estudante de Cibersegurança e Governança de Dados na PUC Minas 🔐
