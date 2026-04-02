@@ -16,7 +16,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Sou a **Juliane**, uma profissional em transição de carreira com background único: **Direito + Segurança da Informação + Tecnologia**. Essa combinação me dá uma perspectiva diferenciada para encarar os desafios da era digital — especialmente onde o mundo jurídico encontra a cibersegurança e a proteção de dados.
+Oie! Sou a **Juliane**, profissional em transição de carreira com background único: **Direito + Segurança da Informação + Tecnologia**. Essa combinação me dá uma perspectiva diferenciada para encarar os desafios da era digital — especialmente onde o mundo jurídico encontra a cibersegurança e a proteção de dados.
 
 Atualmente cursando **Cibersegurança e Governança de Dados na PUC Minas**, movida pela curiosidade e pelo desejo constante de evoluir. 🔐
 
