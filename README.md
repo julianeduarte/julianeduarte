@@ -5,7 +5,8 @@
 <p align="center">
   <img src="./header.svg" alt="Juliane - Segurança da Informação, Cibersegurança e GRC">
 </p>
-  
+</div>
+
 ## `> whoami`
 
 Oie! Sou a **Juliane** — estudante de Cibersegurança e Governança de Dados na PUC Minas 🔐
