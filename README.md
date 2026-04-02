@@ -1,90 +1,10 @@
 <div align="center">
 
 <!-- PIXEL ART SVG ANIMADO -->
-<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .px { shape-rendering: crispEdges; }
-      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-      @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
-      @keyframes glow-pulse { 0%,100%{opacity:0.6} 50%{opacity:1} }
-      .float-anim { animation: float 3s ease-in-out infinite; }
-      .blink-anim { animation: blink 1s step-end infinite; }
-      .glow { animation: glow-pulse 2s ease-in-out infinite; }
-    </style>
-  </defs>
 
-  <!-- Background -->
-  <rect width="680" height="160" fill="#0d0d1a" rx="12" class="px"/>
-
-  <!-- Grid lines -->
-  <g stroke="#1a1a3e" stroke-width="1" opacity="0.5">
-    <line x1="0" y1="8" x2="680" y2="8"/><line x1="0" y1="16" x2="680" y2="16"/>
-    <line x1="0" y1="24" x2="680" y2="24"/><line x1="0" y1="32" x2="680" y2="32"/>
-    <line x1="0" y1="40" x2="680" y2="40"/><line x1="0" y1="48" x2="680" y2="48"/>
-    <line x1="0" y1="56" x2="680" y2="56"/><line x1="0" y1="64" x2="680" y2="64"/>
-    <line x1="0" y1="72" x2="680" y2="72"/><line x1="0" y1="80" x2="680" y2="80"/>
-    <line x1="0" y1="88" x2="680" y2="88"/><line x1="0" y1="96" x2="680" y2="96"/>
-    <line x1="0" y1="104" x2="680" y2="104"/><line x1="0" y1="112" x2="680" y2="112"/>
-    <line x1="0" y1="120" x2="680" y2="120"/><line x1="0" y1="128" x2="680" y2="128"/>
-    <line x1="0" y1="136" x2="680" y2="136"/><line x1="0" y1="144" x2="680" y2="144"/>
-    <line x1="0" y1="152" x2="680" y2="152"/>
-    <line x1="8" y1="0" x2="8" y2="160"/><line x1="16" y1="0" x2="16" y2="160"/>
-    <line x1="24" y1="0" x2="24" y2="160"/><line x1="32" y1="0" x2="32" y2="160"/>
-    <line x1="40" y1="0" x2="40" y2="160"/><line x1="48" y1="0" x2="48" y2="160"/>
-  </g>
-
-  <!-- Shield pixel art - left -->
-  <g class="float-anim" style="transform-origin:60px 80px">
-    <rect x="48" y="40" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="56" y="40" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="64" y="40" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="44" y="48" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="52" y="48" width="8" height="8" fill="#a855f7" class="px"/>
-    <rect x="60" y="48" width="8" height="8" fill="#a855f7" class="px"/>
-    <rect x="68" y="48" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="44" y="56" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="52" y="56" width="8" height="8" fill="#c4b5fd" class="px"/>
-    <rect x="60" y="56" width="8" height="8" fill="#c4b5fd" class="px"/>
-    <rect x="68" y="56" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="48" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="56" y="64" width="8" height="8" fill="#a855f7" class="px"/>
-    <rect x="64" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="52" y="72" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="60" y="72" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="56" y="80" width="8" height="8" fill="#5b21b6" class="px"/>
-  </g>
-
-  <!-- Star decorations -->
-  <rect x="100" y="20" width="4" height="4" fill="#a855f7" class="px glow"/>
-  <rect x="130" y="14" width="4" height="4" fill="#c4b5fd" class="px" style="animation:blink 1.5s step-end infinite"/>
-  <rect x="620" y="18" width="4" height="4" fill="#a855f7" class="px glow" style="animation-delay:0.5s"/>
-  <rect x="645" y="25" width="4" height="4" fill="#c4b5fd" class="px" style="animation:blink 2s step-end infinite"/>
-  <rect x="108" y="130" width="4" height="4" fill="#7c3aed" class="px" style="animation:blink 2.2s step-end infinite"/>
-  <rect x="635" y="128" width="4" height="4" fill="#a855f7" class="px glow" style="animation-delay:1s"/>
-
-  <!-- Lock pixel art - right -->
-  <g class="float-anim" style="transform-origin:615px 80px;animation-delay:1s">
-    <rect x="596" y="56" width="8" height="8" fill="#5b21b6" class="px"/>
-    <rect x="604" y="52" width="8" height="8" fill="#5b21b6" class="px"/>
-    <rect x="612" y="52" width="8" height="8" fill="#5b21b6" class="px"/>
-    <rect x="620" y="56" width="8" height="8" fill="#5b21b6" class="px"/>
-    <rect x="592" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="600" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="608" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="616" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="624" y="64" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="592" y="72" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="600" y="72" width="8" height="8" fill="#a855f7" class="px"/>
-    <rect x="608" y="72" width="8" height="8" fill="#c4b5fd" class="px"/>
-    <rect x="616" y="72" width="8" height="8" fill="#a855f7" class="px"/>
-    <rect x="624" y="72" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="592" y="80" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="600" y="80" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="608" y="80" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="616" y="80" width="8" height="8" fill="#7c3aed" class="px"/>
-    <rect x="624" y="80" width="8" height="8" fill="#7c3aed" class="px"/>
-  </g>
+<p align="center">
+  <img src="./header.svg" alt="Juliane - Segurança da Informação, Cibersegurança e GRC">
+</p>
 
   <!-- JULIANE text -->
   <text x="340" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#c4b5fd" letter-spacing="8">JULIANE</text>
