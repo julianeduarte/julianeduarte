@@ -66,7 +66,11 @@ Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de 
 ## `> github --stats`
 
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=julianeduarte&theme=tokyonight&cc=a855f7&tc=7c3aed&ic=7c3aed" />
+  <img 
+    height="180em" 
+    src="https://github-stats-alpha.vercel.app/api?username=julianeduarte&theme=tokyonight&cc=1a1b26&tc=d5d6db&ic=bb9af7&bc=a855f7" 
+    alt="Estatísticas do GitHub de Juliane - GRC e Cibersegurança" 
+  />
 </div>
 
 ---
