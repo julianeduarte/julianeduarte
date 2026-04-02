@@ -66,9 +66,10 @@ Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de 
 ## `> github --stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianeduarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=7c3aed&text_color=bf95f9" alt="Estatísticas do GitHub de Juliane" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianeduarte&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=bf95f9" alt="Linguagens mais usadas por Juliane" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianeduarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianeduarte&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
