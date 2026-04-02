@@ -42,9 +42,9 @@ Acredito que o aprendizado é um processo contínuo e que a evolução nasce da 
 
 ## `> diferencial --meu`
 
-O meu background jurídico não ficou pra trás — ele **virou superpoder**. 💜
+Minha base acadêmica em Direito atua como uma camada analítica estratégica para a tecnologia. 💜
 
-Quando o assunto é **privacidade de dados, LGPD, conformidade regulatória ou gestão de riscos**, eu consigo transitar entre o técnico e o legal com naturalidade. Isso abre portas em áreas como:
+Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de **frameworks de segurança**. Isso me permite atuar com precisão onde a técnica encontra a norma:
 
 - 🛡️ **GRC** — Governança, Riscos e Compliance
 - 📋 **Privacy by Design** e adequação à LGPD/GDPR
@@ -67,8 +67,8 @@ Quando o assunto é **privacidade de dados, LGPD, conformidade regulatória ou g
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=7c3aed"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=a855f7"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianeduarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=7c3aed"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianeduarte&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=a855f7"/>
 
 </div>
 
@@ -78,14 +78,12 @@ Quando o assunto é **privacidade de dados, LGPD, conformidade regulatória ou g
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianed)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianed@outlook.com)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>💜 <i>Direito + Tecnologia: porque o futuro precisa de quem entenda os dois lados.</i></sub>
 </div>
