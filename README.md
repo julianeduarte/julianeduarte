@@ -145,11 +145,9 @@
 
 ## `> whoami`
 
-Oi! Sou a **Juliane** — advogada de formação que trocou os processos pelos terminais 🔐
+Oi! Sou a **Juliane** — sou estudante de Cibersegurança e Governança de Dados na PUC Minas 🔐
 
-Estou em transição de carreira para a área de **tecnologia**, com foco em **Cibersegurança e Governança de Dados**. Atualmente cursando na **PUC Minas**, carregando na bagagem uma graduação em **Direito** e uma pós em **Segurança da Informação** — uma combinação que me coloca num lugar bem único no mercado: entendo tanto a linguagem técnica quanto o lado jurídico, regulatório e de compliance.
-
-Me movem a curiosidade, a vontade de evoluir todo dia e a certeza de que tecnologia + direito é uma combinação cada vez mais necessária no mundo em que vivemos. 🚀
+Acredito que o aprendizado é um processo contínuo e que a evolução nasce da coragem de seguir novas paixões. Com formação em Direito, decidi mergulhar no universo da Tecnologia, área onde já possuo pós-graduação e sigo me especializando. Sou impulsionada pela curiosidade e pelo desejo de evoluir em ambientes colaborativos e dinâmicos. Meu objetivo central é aplicar essa visão multidisciplinar em Cibersegurança, transformando desafios complexos em soluções inteligentes, resilientes e seguras.
 
 ---
 
