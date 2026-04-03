@@ -68,7 +68,7 @@ Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de 
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-stats-alpha.vercel.app/api?username=julianeduarte&theme=tokyonight&cc=1a1b26&tc=d5d6db&ic=bb9af7&bc=a855f7" 
+    src="https://github-stats-alpha.vercel.app/api?username=julianeduarte&theme=tokyonight&cc=231942&tc=edede9&ic=9f86c0&bc=5e548e" 
     alt="Estatísticas do GitHub de Juliane - GRC e Cibersegurança" 
   />
 </div>
