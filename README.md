@@ -57,7 +57,7 @@ Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de 
 
 | 📚 | Curso | Instituição | Status |
 |---|---|---|---|
-| 🟣 | Cibersegurança e Governança de Dados | PUC Minas | 🟢 Em andamento |
+| 🟣 | Especialização em Cibersegurança e Governança de Dados | PUC Minas | 🟢 Em andamento |
 | 🟣 | Pós-graduação em Segurança da Informação | Universidade Anhembi Morumbi | ✅ Concluída |
 | 🟣 | Graduação em Direito | Universidade de Franca | ✅ Concluída |
 
