@@ -2,9 +2,8 @@
 
 <!-- PIXEL ART SVG ANIMADO -->
 
-<p align="center">
-  <img src="./header.svg" alt="Juliane - Segurança da Informação, Cibersegurança e GRC">
-</p>
+<div align="center">
+  <img src="./juliane_header.svg" alt="Juliane - Segurança da Informação"/>
 </div>
 
 ## `> whoami`
