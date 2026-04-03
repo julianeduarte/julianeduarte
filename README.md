@@ -79,7 +79,7 @@ Em vez de apenas aplicar controles, entendo a lógica regulatória por trás de 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-277da1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianed)
 [![Email](https://img.shields.io/badge/Email-358f80?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianed@outlook.com)
 
 </div>
