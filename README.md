@@ -3,7 +3,7 @@
 <!-- PIXEL ART SVG ANIMADO -->
 
 <p align="center">
-  <img src="./juliane_header.svg" alt="Juliane - Segurança da Informação"/>
+  <img src="ghibli header.svg" width="100%">
   </p>
 </div>
 
