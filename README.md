@@ -2,8 +2,9 @@
 
 <!-- PIXEL ART SVG ANIMADO -->
 
-<div align="center">
+<p align="center">
   <img src="./juliane_header.svg" alt="Juliane - Segurança da Informação"/>
+  </p>
 </div>
 
 ## `> whoami`
