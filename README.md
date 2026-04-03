@@ -21,13 +21,13 @@ Acredito que o aprendizado é um processo contínuo e que a evolução nasce da 
 
 **✅ Tenho conhecimento**
 
-![SQL](https://img.shields.io/badge/SQL-eb5e28?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-f4a259?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **📖 Estudando atualmente**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![IA](https://img.shields.io/badge/Inteligência_Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f4e285?style=for-the-badge&logo=python&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-bc4b51?style=for-the-badge&logo=openai&logoColor=white)
 
 **🔐 Áreas de atuação**
 
