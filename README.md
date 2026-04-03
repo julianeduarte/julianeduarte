@@ -31,10 +31,10 @@ Acredito que o aprendizado é um processo contínuo e que a evolução nasce da 
 
 **🔐 Áreas de atuação**
 
-![Cybersecurity](https://img.shields.io/badge/Cibersegurança-1A1A2E?style=for-the-badge&logo=hackthebox&logoColor=a855f7)
-![GRC](https://img.shields.io/badge/Governança,_Riscos_e_Compliance-2D2D2D?style=for-the-badge&logo=shield&logoColor=a855f7)
-![LGPD](https://img.shields.io/badge/LGPD_/_GDPR-4C1D95?style=for-the-badge&logoColor=white)
-![Data Governance](https://img.shields.io/badge/Governança_de_Dados-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cibersegurança-1a1423?style=for-the-badge&logo=hackthebox&logoColor=a855f7)
+![GRC](https://img.shields.io/badge/Governança,_Riscos_e_Compliance-372549?style=for-the-badge&logo=shield&logoColor=a855f7)
+![LGPD](https://img.shields.io/badge/LGPD_/_GDPR-774c60?style=for-the-badge&logoColor=white)
+![Data Governance](https://img.shields.io/badge/Governança_de_Dados-b75d69?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
