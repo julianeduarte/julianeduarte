@@ -9,7 +9,7 @@
 
 ## `> whoami`
 
-Oie! Sou a **Juliane** — estudante de Cibersegurança e Governança de Dados na PUC Minas.
+Oie! Meu nome é **Juliane** e sou estudante de Cibersegurança e Governança de Dados na PUC Minas.
 
 Acredito que o aprendizado é um processo contínuo e que a evolução nasce da coragem de seguir novas paixões. Com formação em Direito, decidi mergulhar no universo da Tecnologia, área onde já possuo pós-graduação e sigo me especializando. Sou impulsionada pela curiosidade e pelo desejo de evoluir em ambientes colaborativos e dinâmicos. Meu objetivo central é aplicar essa visão multidisciplinar em Cibersegurança, transformando desafios complexos em soluções inteligentes, resilientes e seguras.
 
