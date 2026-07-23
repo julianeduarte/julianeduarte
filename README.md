@@ -3,7 +3,7 @@
 <!-- PIXEL ART SVG ANIMADO -->
 
 <p align="center">
-  <img src="ghibli header.svg" width="100%">
+  <img src="header.svg" width="100%">
   </p>
 </div>
 
