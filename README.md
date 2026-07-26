@@ -26,7 +26,7 @@ Acredito que o aprendizado é um processo contínuo e que a evolução nasce da 
 
 **📖 Estudando atualmente**
 
-![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-a2d2ff?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-f7b538?style=for-the-badge&logo=python&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência_Artificial-a6a2a2?style=for-the-badge&logo=openai&logoColor=white)
 
