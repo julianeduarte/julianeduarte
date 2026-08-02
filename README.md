@@ -41,7 +41,7 @@ Acredito que o aprendizado é um processo contínuo e que a evolução nasce da 
 
 ---
 
-## `> diferencial --meu`
+## `> diferencial --strengths`
 
 - 🛡️ **GRC** — Governança, Riscos e Compliance
 - 📋 **Privacy by Design** e adequação à LGPD/GDPR
