@@ -1,14 +1,14 @@
 <svg width="850" height="300" viewBox="0 0 850 300" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <!-- Gradiente de Fundo -->
+        <!-- Gradiente de Fundo (Estilo Terminal Escuro) -->
         <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#120524" />
-            <stop offset="100%" stop-color="#2a0a4a" />
+            <stop offset="0%" stop-color="#0D1117" /> <!-- Cinza escuro estilo GitHub Dark -->
+            <stop offset="100%" stop-color="#161B22" />
         </linearGradient>
         
-        <!-- Padrão de Grade (Grid Cyber) -->
+        <!-- Padrão de Grade (Grid Cyber Adaptado) -->
         <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-            <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#4a1587" stroke-width="1" opacity="0.3" />
+            <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#84A59D" stroke-width="1" opacity="0.1" /> <!-- Muted Teal Suave -->
         </pattern>
 
         <!-- Estilos e Animações -->
@@ -49,22 +49,22 @@
     <rect width="100%" height="100%" fill="url(#bg)" />
     <rect width="100%" height="100%" fill="url(#grid)" />
 
-    <!-- Estrelas / Partículas Magicas de Fundo -->
-    <rect x="50" y="30" width="3" height="3" fill="#E0AAFF" class="blink pixel" />
-    <rect x="450" y="80" width="3" height="3" fill="#C77DFF" class="blink-fast pixel" />
-    <rect x="300" y="260" width="4" height="4" fill="#9D4EDD" class="blink pixel" style="animation-delay: 0.5s;" />
-    <rect x="800" y="50" width="3" height="3" fill="#E0AAFF" class="blink pixel" style="animation-delay: 1.2s;" />
-    <rect x="650" y="250" width="4" height="4" fill="#C77DFF" class="blink-fast pixel" style="animation-delay: 0.7s;" />
+    <!-- Estrelas / Partículas Magicas de Fundo (Cores da Paleta) -->
+    <rect x="50" y="30" width="3" height="3" fill="#F7EDE2" class="blink pixel" /> <!-- Linen -->
+    <rect x="450" y="80" width="3" height="3" fill="#F5CAC3" class="blink-fast pixel" /> <!-- Cotton Rose -->
+    <rect x="300" y="260" width="4" height="4" fill="#84A59D" class="blink pixel" style="animation-delay: 0.5s;" /> <!-- Muted Teal -->
+    <rect x="800" y="50" width="3" height="3" fill="#F7EDE2" class="blink pixel" style="animation-delay: 1.2s;" /> <!-- Linen -->
+    <rect x="650" y="250" width="4" height="4" fill="#F5CAC3" class="blink-fast pixel" style="animation-delay: 0.7s;" /> <!-- Cotton Rose -->
     
-    <!-- Binary Code Matrix caindo sutilmente -->
-    <text x="380" y="60" fill="#4a1587" class="text-sub blink" font-size="12">10110</text>
-    <text x="750" y="180" fill="#4a1587" class="text-sub blink" font-size="12" style="animation-delay: 1s;">01001</text>
-    <text x="150" y="280" fill="#4a1587" class="text-sub blink" font-size="12" style="animation-delay: 0.5s;">1101</text>
+    <!-- Binary Code Matrix (Cores da Paleta, Opacidade Baixa) -->
+    <text x="380" y="60" fill="#84A59D" class="text-sub blink" font-size="12" opacity="0.3">10110</text>
+    <text x="750" y="180" fill="#84A59D" class="text-sub blink" font-size="12" opacity="0.3" style="animation-delay: 1s;">01001</text>
+    <text x="150" y="280" fill="#84A59D" class="text-sub blink" font-size="12" opacity="0.3" style="animation-delay: 0.5s;">1101</text>
 
     <!-- ================= ESQUERDA: TEXTOS ================= -->
     
-    <!-- Nome 'Juliane' desenhado em blocos de Pixel Art (Sombra) -->
-    <g transform="translate(54, 54) scale(1.5)" fill="#2a0a4a" class="pixel">
+    <!-- Nome 'Juliane' desenhado em blocos de Pixel Art (Sombra - Cor Escura do Fundo) -->
+    <g transform="translate(54, 54) scale(1.5)" fill="#0D1117" class="pixel">
         <path d="M24,0 h8 v32 h-8 z M0,24 h32 v8 h-32 z M0,16 h8 v8 h-8 z"/> <!-- J -->
         <path d="M48,0 h8 v32 h-8 z M72,0 h8 v32 h-8 z M48,24 h32 v8 h-32 z"/> <!-- U -->
         <path d="M96,0 h8 v32 h-8 z M96,24 h32 v8 h-32 z"/> <!-- L -->
@@ -74,8 +74,8 @@
         <path d="M264,0 h8 v32 h-8 z M264,0 h32 v8 h-32 z M264,12 h24 v8 h-24 z M264,24 h32 v8 h-32 z"/> <!-- E -->
     </g>
 
-    <!-- Nome 'Juliane' desenhado em blocos de Pixel Art (Cor Principal) -->
-    <g transform="translate(50, 50) scale(1.5)" fill="#E0AAFF" class="pixel">
+    <!-- Nome 'Juliane' desenhado em blocos de Pixel Art (Cor Principal - Honey Bronze) -->
+    <g transform="translate(50, 50) scale(1.5)" fill="#F6BD60" class="pixel">
         <path d="M24,0 h8 v32 h-8 z M0,24 h32 v8 h-32 z M0,16 h8 v8 h-8 z"/> <!-- J -->
         <path d="M48,0 h8 v32 h-8 z M72,0 h8 v32 h-8 z M48,24 h32 v8 h-32 z"/> <!-- U -->
         <path d="M96,0 h8 v32 h-8 z M96,24 h32 v8 h-32 z"/> <!-- L -->
@@ -85,17 +85,17 @@
         <path d="M264,0 h8 v32 h-8 z M264,0 h32 v8 h-32 z M264,12 h24 v8 h-24 z M264,24 h32 v8 h-32 z"/> <!-- E -->
     </g>
 
-    <!-- Subtítulos -->
-    <text x="50" y="140" class="text-sub" font-size="16" fill="#C77DFF">Segurança da Informação | Cibersegurança</text>
-    <text x="50" y="165" class="text-sub" font-size="16" fill="#C77DFF">Governança, Riscos e Compliance | Segurança na Nuvem</text>
+    <!-- Subtítulos (Linen) -->
+    <text x="50" y="140" class="text-sub" font-size="16" fill="#F7EDE2">Segurança da Informação | Cibersegurança</text>
+    <text x="50" y="165" class="text-sub" font-size="16" fill="#F7EDE2">Governança, Riscos e Compliance | Segurança na Nuvem</text>
 
-    <!-- Terminal Prompt & Barra de Progresso Hacker -->
-    <text x="50" y="225" class="text-sub" font-size="13" fill="#E0AAFF">
-        <tspan fill="#9D4EDD">user@juliane</tspan>:<tspan fill="#48CAE4">~/github</tspan>$ ./init_security_protocols.sh<tspan fill="#E0AAFF" class="blink">_</tspan>
+    <!-- Terminal Prompt & Barra de Progresso Hacker (Realce de Sintaxe com Paleta) -->
+    <text x="50" y="225" class="text-sub" font-size="13" fill="#F7EDE2"> <!-- Cor base Linen -->
+        <tspan fill="#F28482">user@juliane</tspan>:<tspan fill="#F5CAC3">~/github</tspan>$ ./init_security_protocols.sh<tspan fill="#F6BD60" class="blink">_</tspan>
     </text>
-    <rect x="50" y="240" width="280" height="12" fill="#120524" stroke="#5A189A" stroke-width="2" class="pixel" />
-    <rect x="54" y="244" width="210" height="4" fill="#9D4EDD" class="pixel glow" />
-    <text x="340" y="251" class="text-sub" font-size="12" fill="#E0AAFF">75%</text>
+    <rect x="50" y="240" width="280" height="12" fill="#0D1117" stroke="#84A59D" stroke-width="2" class="pixel" /> <!-- Fundo escuro, Borda Teal -->
+    <rect x="54" y="244" width="210" height="4" fill="#F6BD60" class="pixel glow" /> <!-- Progresso Honey Bronze -->
+    <text x="340" y="251" class="text-sub" font-size="12" fill="#F7EDE2">75%</text>
 
 
     <!-- ================= DIREITA: ILUSTRAÇÃO GHIBLI + TECH ================= -->
@@ -103,38 +103,38 @@
         
         <!-- ELEMENTOS FLUTUANTES AO REDOR -->
         <g transform="translate(2, 8)">
-            <!-- Cadeado (Cibersegurança) -->
+            <!-- Cadeado (Cibersegurança - Honey Bronze/Linen) -->
             <g class="floating-fast" style="animation-delay: -1.2s">
-                <path class="pixel" fill="#FF9E00" d="M0,4 h8 v6 h-8 z" />
-                <path class="pixel" fill="#FFEA00" d="M2,0 h4 v4 h-1 v-3 h-2 v3 h-1 z" />
-                <path class="pixel" fill="#2a0a4a" d="M3,6 h2 v2 h-2 z" />
-                <rect class="pixel glow" x="-1" y="-1" width="10" height="12" fill="none" stroke="#FF9E00" stroke-width="0.5" />
+                <path class="pixel" fill="#F6BD60" d="M0,4 h8 v6 h-8 z" />
+                <path class="pixel" fill="#F7EDE2" d="M2,0 h4 v4 h-1 v-3 h-2 v3 h-1 z" />
+                <path class="pixel" fill="#0D1117" d="M3,6 h2 v2 h-2 z" />
+                <rect class="pixel glow" x="-1" y="-1" width="10" height="12" fill="none" stroke="#F6BD60" stroke-width="0.5" />
             </g>
         </g>
         
         <g transform="translate(56, 12)">
-            <!-- Ícone de Nuvem (Segurança na Nuvem) -->
+            <!-- Ícone de Nuvem (Segurança na Nuvem - Cotton Rose/Linen) -->
             <g class="floating-slow" style="animation-delay: -0.5s">
-                <path class="pixel" fill="#48CAE4" d="M2,2 h8 v2 h4 v4 h-14 v-4 h2 z" />
-                <path class="pixel" fill="#90E0EF" d="M4,2 h4 v2 h-4 z" />
+                <path class="pixel" fill="#F5CAC3" d="M2,2 h8 v2 h4 v4 h-14 v-4 h2 z" />
+                <path class="pixel" fill="#F7EDE2" d="M4,2 h4 v2 h-4 z" />
             </g>
         </g>
         
         <g transform="translate(48, 38)">
-            <!-- Escudo (Compliance / InfoSec) -->
+            <!-- Escudo (Compliance / InfoSec - Muted Teal/Cotton Rose) -->
             <g class="floating" style="animation-delay: -2s">
-                <path class="pixel" fill="#7B2CBF" d="M0,0 h8 v4 l-4,4 l-4,-4 z" />
-                <path class="pixel" fill="#E0AAFF" d="M2,1 h4 v2 l-2,2 l-2,-2 z" />
+                <path class="pixel" fill="#84A59D" d="M0,0 h8 v4 l-4,4 l-4,-4 z" />
+                <path class="pixel" fill="#F5CAC3" d="M2,1 h4 v2 l-2,2 l-2,-2 z" />
             </g>
         </g>
 
         <!-- GRUPO PRINCIPAL (Nuvem, Susuwatari, Notebook) -->
         <g class="floating">
             
-            <!-- Nuvem Flutuante (Fundo) -->
-            <path class="pixel" fill="#2a0a4a" d="M12,40 h42 v8 h-42 z M18,36 h10 v4 h-10 z M35,34 h12 v6 h-12 z" />
+            <!-- Nuvem Flutuante (Fundo - Fundo Escuro do Terminal) -->
+            <path class="pixel" fill="#161B22" d="M12,40 h42 v8 h-42 z M18,36 h10 v4 h-10 z M35,34 h12 v6 h-12 z" />
             
-            <!-- Corpo do Susuwatari (Espírito da Fuligem) -->
+            <!-- Corpo do Susuwatari (Espírito da Fuligem) - Mantido Escuro -->
             <path class="pixel" fill="#080210" d="
                 M28,15 h10 v2 h4 v2 h2 v4 h2 v10 h-2 v4 h-2 v2 h-4 v2 h-10 v-2 h-4 v-2 h-2 v-4 h-2 v-10 h2 v-4 h2 v-2 h4 v-2 z
             "/>
@@ -155,19 +155,19 @@
             <!-- Braços digitando -->
             <path class="pixel" fill="#080210" d="M22,28 h-4 v6 h4 v-2 h-2 v-2 h2 z M44,28 h4 v6 h-4 v-2 h2 v-2 h-2 z" />
 
-            <!-- Notebook (Costas, tela virada para o Susuwatari) -->
+            <!-- Notebook (Costas, tela virada para o Susuwatari - Muted Teal) -->
             <!-- Tela -->
-            <path class="pixel" fill="#5A189A" d="M20,25 h26 v10 h-26 z" />
-            <!-- Logo brilhante (estilo estrela Ghibli) -->
-            <rect class="pixel glow" fill="#E0AAFF" x="32" y="29" width="2" height="2" />
+            <path class="pixel" fill="#84A59D" d="M20,25 h26 v10 h-26 z" />
+            <!-- Logo brilhante (estilo estrela Ghibli - Honey Bronze) -->
+            <rect class="pixel glow" fill="#F6BD60" x="32" y="29" width="2" height="2" />
             <!-- Base do Notebook -->
-            <path class="pixel" fill="#3C096C" d="M16,34 h34 v3 h-34 z" />
-            <rect class="pixel glow" fill="#E0AAFF" x="18" y="34" width="30" height="1" opacity="0.4" />
+            <path class="pixel" fill="#0D1117" d="M16,34 h34 v3 h-34 z" />
+            <rect class="pixel glow" fill="#F6BD60" x="18" y="34" width="30" height="1" opacity="0.4" />
 
-            <!-- Nuvem Flutuante (Frente / Fofura da nuvem) -->
-            <path class="pixel" fill="#4a1587" d="M10,42 h46 v4 h-46 z M16,38 h8 v4 h-8 z M36,36 h12 v6 h-12 z" />
-            <!-- Luz e sombra da Nuvem -->
-            <path class="pixel" fill="#7B2CBF" d="M16,38 h8 v1 h-8 z M36,36 h12 v1 h-12 z M10,42 h46 v1 h-46 z" />
+            <!-- Nuvem Flutuante (Frente / Fofura da nuvem - Muted Teal) -->
+            <path class="pixel" fill="#84A59D" d="M10,42 h46 v4 h-46 z M16,38 h8 v4 h-8 z M36,36 h12 v6 h-12 z" />
+            <!-- Luz e sombra da Nuvem (Linen) -->
+            <path class="pixel" fill="#F7EDE2" opacity="0.5" d="M16,38 h8 v1 h-8 z M36,36 h12 v1 h-12 z M10,42 h46 v1 h-46 z" />
 
         </g>
     </g>
